@@ -10,7 +10,6 @@
 ## Encabezado nivel 2
 ### Encabezado nivel 3
 #### Encabezado nivel 4
-##### Encabezado nivel 5
 ###### Encabezado nivel 6
 
 ## Párrafos
@@ -23,16 +22,6 @@ Este es
 un parrafo  
 extraño
 
-## Citas
-
-> Esto es una cita
-> Un país, una civilización se puede juzgar por la forma en que trata a sus animales.  — Mahatma Gandhi
-
-> Esto sería una cita como la que acabas de ver.
-> 
-> > Dentro de ella puedes anidar otra cita.
-> 
-> La cita principal llegaría hasta aquí.
 
 ## Listas
 
@@ -78,6 +67,8 @@ Linea horizontal
 
 [Pato]:https://github.com/Alastair1061/Markdown/assets/107496455/806793a3-970b-4765-a0b4-c7a28fb72e66
 ![Otro pato][Pato]
+
+esta es una linea nueva
 
 ## Omitir markdown
 
